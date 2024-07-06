@@ -1,2 +1,2 @@
 # MBTI_classifier
-문장을 통한 MBTI 예측 모델
+KoBERT 모델을 사용하여 MBTI(성격 유형 지표)를 분류
